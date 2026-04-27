@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("djenus_csharp_outbox_pattern_e_publica_o_de_even")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33224438d6af3f854ce4fc8fd1c5407fced24e64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8433875ff9531a7e0a58754836a1ecc8e298eb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("djenus_csharp_outbox_pattern_e_publica_o_de_even")]
 [assembly: System.Reflection.AssemblyTitleAttribute("djenus_csharp_outbox_pattern_e_publica_o_de_even")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
