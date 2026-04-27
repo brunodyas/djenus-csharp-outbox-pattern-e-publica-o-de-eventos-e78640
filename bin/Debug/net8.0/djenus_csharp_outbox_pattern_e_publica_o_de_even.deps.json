@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "djenus_csharp_outbox_pattern_e_publica_o_de_even/1.0.0": {
+        "runtime": {
+          "djenus_csharp_outbox_pattern_e_publica_o_de_even.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "djenus_csharp_outbox_pattern_e_publica_o_de_even/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

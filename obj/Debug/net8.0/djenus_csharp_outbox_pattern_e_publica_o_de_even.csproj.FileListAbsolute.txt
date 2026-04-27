@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-evento
 D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\obj\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\obj\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\obj\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\bin\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.exe
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\bin\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.deps.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\bin\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\bin\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\bin\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\obj\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\obj\Debug\net8.0\refint\djenus_csharp_outbox_pattern_e_publica_o_de_even.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\obj\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\obj\Debug\net8.0\djenus_csharp_outbox_pattern_e_publica_o_de_even.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-outbox-pattern-e-publica-o-de-eventos-e78640\obj\Debug\net8.0\ref\djenus_csharp_outbox_pattern_e_publica_o_de_even.dll
